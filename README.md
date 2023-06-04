@@ -1,4 +1,4 @@
-## Insta
+# Insta
 # HomePages:
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/84967860/243219100-31b30361-5915-4b1c-8d13-d82781a301ab.png" width="200" height = "400" title="HomePage">
 
